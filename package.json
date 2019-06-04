@@ -1,0 +1,11 @@
+{
+    "name": "typeform-discord",
+    "version": "0.0.1",
+    "description": "Simple Discord bot for Typeform Webhooks and Requests",
+    "main": "test-bot.js",
+    "author": "DrewFighters",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
