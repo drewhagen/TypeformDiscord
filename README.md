@@ -38,4 +38,4 @@ probably inevitable)
 
 ## Current Progress
 
-This first commit to this repository has a file called `test-bot.js`. [With NPM Installed|https://www.npmjs.com/get-npm], run `node test-bot.js` to start up the bot. If this bot were configured with your server correctly, this script should bring that bot online in your server. Then, in any channel that the bot user is given access to, you can call "!marco". It should then respond with "Polo!"
+This first commit to this repository has a file called `test-bot.js`. [With NPM Installed](https://www.npmjs.com/get-npm), run `node test-bot.js` to start up the bot. If this bot were configured with your server correctly, this script should bring that bot online in your server. Then, in any channel that the bot user is given access to, you can call "!marco". It should then respond with "Polo!"
