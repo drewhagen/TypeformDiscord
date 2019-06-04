@@ -7,7 +7,7 @@ to choose Typeform.com as its' platform for creating interactive forms. The mode
 
 
 The server moderator who elects themselves in charge of managing the server's typeform account would have the sole access to
-these forms, may need to log themselves into typeform.com, open the responses, copy and paste them (unformatted plain text) into Discord
+these forms, may need to log themselves into [TypeForm](typeform.com), open the responses, copy and paste them (unformatted plain text) into Discord
 for the whole moderation team to see it.
 
 
