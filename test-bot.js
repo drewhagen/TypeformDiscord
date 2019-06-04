@@ -43,6 +43,43 @@
                         message: 'Polo!'
                     });
                 break;
+                //#region realstic commands to work on
+                    // !complaints
+                    case 'complaints':
+                        bot.sendMessage({
+                            to: channelID,
+                            message: 'List complaints?'
+                        });
+                    break;
+                    // !banAppeals
+                    case 'banAppeals':
+                        bot.sendMessage({
+                            to: channelID,
+                            message: 'List banAppeals?'
+                        });
+                    break;
+                    // !modApps
+                    case 'modApps':
+                        bot.sendMessage({
+                            to: channelID,
+                            message: 'List modApps?'
+                        });
+                    break;
+                    // !mentorApps
+                    case 'mentorApps':
+                        bot.sendMessage({
+                            to: channelID,
+                            message: 'List mentorApps?'
+                        });
+                    break;
+                    // !supportApps
+                    case 'supportApps':
+                        bot.sendMessage({
+                            to: channelID,
+                            message: 'List supportApps?'
+                        });
+                    break;
+                //#endregion
                 // Just add any case commands if you want to..
             }
         }
